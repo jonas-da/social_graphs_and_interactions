@@ -8,6 +8,13 @@ node_modules/
 # Created by https://www.gitignore.io/api/python
 # Edit at https://www.gitignore.io/?templates=python
 
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# IPython
+profile_default/
+ipython_config.py
+
 ### Python ###
 # Byte-compiled / optimized / DLL files
 __pycache__/
